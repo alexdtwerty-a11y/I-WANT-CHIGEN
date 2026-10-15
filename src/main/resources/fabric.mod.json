@@ -19,7 +19,7 @@
             "com.example.TemplateMod"
         ],
         "client": [
-            "com.example.AntiCheatBypassTriggerBot"
+            "com.example.client.AntiCheatBypassTriggerBot"
         ]
     },
     "mixins": [
